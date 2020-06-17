@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nvar About = function About(prop) {\n  return __jsx(\"div\", null, \"about next.js\");\n};\n\nexport default About;","map":null,"metadata":{},"sourceType":"module"}
